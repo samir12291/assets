@@ -1,0 +1,25 @@
+{
+  "name": "NEWRISETOKEN",
+  "type": "POLYGON",
+  "symbol": "NRT",
+  "decimals": 18,
+  "website": "https://your-website.com",
+  "description": "NEWRISETOKEN (NRT) is a fixed-supply ERC20 token on Polygon with 1 billion total supply.",
+  "explorer": "https://polygonscan.com/token/0x2F9b2a119B68366d9ebA28dD146B678a5283749e",
+  "status": "active",
+  "id": "0x2F9b2a119B68366d9ebA28dD146B678a5283749e",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/NewRiseOfficial"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/NewRise_Official"
+    }
+  ],
+  "tags": [
+    "defi",
+    "polygon"
+  ]
+}
